@@ -1,0 +1,18 @@
+def fizzbuzz (number)
+  #code
+end
+
+2nd version
+
+def fizzbuzz (int)
+    if int % 3 == 0 
+      "Fizz"
+    end
+end
+
+# puts fizzbuzz(3)
+# puts fizzbuzz(9)
+puts fizzbuzz (11)
+# fizzbuzz 11 just to show you that if there's no remainder nil rather than give you a validates_numericality_of
+
+
